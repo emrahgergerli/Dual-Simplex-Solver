@@ -1,0 +1,24 @@
+C:\Users\set\source\repos\Genetic_Algorithm_Tsp\Genetic_Algorithm_Tsp\bin\Debug\Genetic_Algorithm_Tsp.exe.config
+C:\Users\set\source\repos\Genetic_Algorithm_Tsp\Genetic_Algorithm_Tsp\bin\Debug\Genetic_Algorithm_Tsp.exe
+C:\Users\set\source\repos\Genetic_Algorithm_Tsp\Genetic_Algorithm_Tsp\bin\Debug\Genetic_Algorithm_Tsp.pdb
+C:\Users\set\source\repos\Genetic_Algorithm_Tsp\Genetic_Algorithm_Tsp\obj\Debug\Genetic_Algorithm_Tsp.csprojResolveAssemblyReference.cache
+C:\Users\set\source\repos\Genetic_Algorithm_Tsp\Genetic_Algorithm_Tsp\obj\Debug\Genetic_Algorithm_Tsp.Form1.resources
+C:\Users\set\source\repos\Genetic_Algorithm_Tsp\Genetic_Algorithm_Tsp\obj\Debug\Genetic_Algorithm_Tsp.Properties.Resources.resources
+C:\Users\set\source\repos\Genetic_Algorithm_Tsp\Genetic_Algorithm_Tsp\obj\Debug\Genetic_Algorithm_Tsp.csproj.GenerateResource.Cache
+C:\Users\set\source\repos\Genetic_Algorithm_Tsp\Genetic_Algorithm_Tsp\obj\Debug\Genetic_Algorithm_Tsp.csproj.CoreCompileInputs.cache
+C:\Users\set\source\repos\Genetic_Algorithm_Tsp\Genetic_Algorithm_Tsp\obj\Debug\Genetic_Algorithm_Tsp.exe
+C:\Users\set\source\repos\Genetic_Algorithm_Tsp\Genetic_Algorithm_Tsp\obj\Debug\Genetic_Algorithm_Tsp.pdb
+D:\Yedek Downloads\Genetic_Algorithm_Tsp\Genetic_Algorithm_Tsp\bin\Debug\Genetic_Algorithm_Tsp.exe.config
+D:\Yedek Downloads\Genetic_Algorithm_Tsp\Genetic_Algorithm_Tsp\obj\Debug\Genetic_Algorithm_Tsp.exe
+D:\Yedek Downloads\Genetic_Algorithm_Tsp\Genetic_Algorithm_Tsp\obj\Debug\Genetic_Algorithm_Tsp.pdb
+D:\Yedek Downloads\Genetic_Algorithm_Tsp\Genetic_Algorithm_Tsp\obj\Debug\Genetic_Algorithm_Tsp.csprojResolveAssemblyReference.cache
+D:\Yedek Downloads\Genetic_Algorithm_Tsp\Genetic_Algorithm_Tsp\obj\Debug\Genetic_Algorithm_Tsp.Form1.resources
+D:\Yedek Downloads\Genetic_Algorithm_Tsp\Genetic_Algorithm_Tsp\obj\Debug\Genetic_Algorithm_Tsp.Properties.Resources.resources
+D:\Yedek Downloads\Genetic_Algorithm_Tsp\Genetic_Algorithm_Tsp\obj\Debug\Genetic_Algorithm_Tsp.csproj.GenerateResource.Cache
+D:\Yedek Downloads\Genetic_Algorithm_Tsp.rar~\Grup12\Genetic_Algorithm_Tsp\Genetic_Algorithm_Tsp\bin\Debug\Genetic_Algorithm_Tsp.exe.config
+D:\Yedek Downloads\Genetic_Algorithm_Tsp.rar~\Grup12\Genetic_Algorithm_Tsp\Genetic_Algorithm_Tsp\obj\Debug\Genetic_Algorithm_Tsp.exe
+D:\Yedek Downloads\Genetic_Algorithm_Tsp.rar~\Grup12\Genetic_Algorithm_Tsp\Genetic_Algorithm_Tsp\obj\Debug\Genetic_Algorithm_Tsp.pdb
+D:\Yedek Downloads\Genetic_Algorithm_Tsp.rar~\Grup12\Genetic_Algorithm_Tsp\Genetic_Algorithm_Tsp\obj\Debug\Genetic_Algorithm_Tsp.csprojResolveAssemblyReference.cache
+D:\Yedek Downloads\Genetic_Algorithm_Tsp.rar~\Grup12\Genetic_Algorithm_Tsp\Genetic_Algorithm_Tsp\obj\Debug\Genetic_Algorithm_Tsp.Form1.resources
+D:\Yedek Downloads\Genetic_Algorithm_Tsp.rar~\Grup12\Genetic_Algorithm_Tsp\Genetic_Algorithm_Tsp\obj\Debug\Genetic_Algorithm_Tsp.Properties.Resources.resources
+D:\Yedek Downloads\Genetic_Algorithm_Tsp.rar~\Grup12\Genetic_Algorithm_Tsp\Genetic_Algorithm_Tsp\obj\Debug\Genetic_Algorithm_Tsp.csproj.GenerateResource.Cache
